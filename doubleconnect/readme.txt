@@ -1,9 +1,11 @@
 
+下载客户端:
+https://github.com/doubleconnect/connect/raw/master/doubleconnect.zip
 
-下载客户端:	https://github.com/doubleconnect/connect/raw/master/doubleconnect.zip
+安装说明书:
+https://github.com/doubleconnect/connect/blob/master/doubleconnect/readme.txt
+https://github.com/doubleconnect/connect/blob/master/doubleconnect
 
-安装说明书:	https://github.com/doubleconnect/connect/blob/master/doubleconnect/readme.txt
-		https://github.com/doubleconnect/connect/blob/master/doubleconnect
 
 安装说明：
 1，安装openvpn-client.ovpn2.2.1-install.exe，一路回车
