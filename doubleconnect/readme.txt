@@ -1,3 +1,10 @@
+
+
+下载客户端:	https://github.com/doubleconnect/connect/raw/master/doubleconnect.zip
+
+安装说明书:	https://github.com/doubleconnect/connect/blob/master/doubleconnect/readme.txt
+		https://github.com/doubleconnect/connect/blob/master/doubleconnect
+
 安装说明：
 1，安装openvpn-client.ovpn2.2.1-install.exe，一路回车
 2，拷贝两个文件 ca.crt 和 jp01-route.ovpn、us01-route.ovpn 到目录 "C:\Program Files\OpenVPN\config"；
